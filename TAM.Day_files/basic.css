@@ -1,0 +1,137 @@
+body     { font-size: 12px; font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;
+background-color: #ffffff;}
+
+p   { font-size: 12px;
+    font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;}
+
+li   {  font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;; font-size: 12px}
+ol  {   font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;}
+ul  { font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;; font-size: 12px}
+b   { font-weight: bold}
+i    {  font-style: italic}
+
+th {
+    font-family: Verdana,Geneva,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    color:#ffffff;
+    bgcolor: #00ffff;}
+
+td    { font-size: 12px;
+        font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;
+         }
+
+h1   { color: #000000;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Helvetica, Arial, sans-serif }
+
+h2  { color: #000000;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Helvetica, Arial, sans-serif }
+
+h3     { color: #000000;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;}
+
+h4 { color: #000000;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;}
+
+h5 { color: #000000;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 9px;
+    font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;}
+
+tt  {
+    font-family: Courier;
+    font-size: 11px;}
+
+code {font-family: Courier; font-size: 11px;}
+
+
+.quote  { font-style: italic; font-family: "Times New Roman", Times, serif; }
+.italic  { font-style: italic;}
+.bold  { font-weight: bold;}
+.smaller     { font-size: 11px; }
+.small    { font-size: small; }
+.eighty    { font-size: 11px;}
+.seventyfive    { font-size: 10px}
+.seventy     { font-size: 10px}
+.85    { font-size: .85em;}
+.75     { font-size: 0.75em }
+.sixty { font-size: 0.60em }
+.xsmall   { font-size: x-small; }
+.smaller80 { font-size: 80%; }
+.smaller50 { font-size: 50%; }
+.caption    { font-size: 10px; color: #666666;}
+
+
+.question {vertical-align: bottom; background-color: #333399; color: #ffffff}
+.answer {vertical-align: bottom;  background-color: #6699ff; color: #000000}
+
+.captionbold    { font-size: 10px; color: #666666; font-weight: bold;; line-height: 120%}
+.list1    { font-size: 10px; font-weight: bold;}
+.list2    { font-size: .75em;  font-weight: bold;  font-style: italic;}
+.list3    { font-size: .75em;  font-style: italic;}
+.gigantic  { font-size: 500%; color: #3399ff;}
+
+.leadedloosest    { line-height: 200% }
+.leadedlooser    { line-height: 175% }
+.leadedloose   { line-height: 150% }
+.leadedtight  { line-height: 75% }
+.leadedtighter  { line-height: 50% }
+
+.blue    {color: #0099ff;}
+.grey    {color: #666666;}
+.orange { color: #cc6633;}
+.brown {  color: #993300;}
+
+
+.smalllink   {
+    font-size: .75em;
+    line-height: 120%;
+    font-family: Verdana, Geneva, Helvetica, Arial, sans-serif; }
+
+.sbsection {
+    font-family: Verdana,Geneva,Helvetica,Arial,sans-serif;
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: bold;}
+
+.smalltt {
+    font-family: Courier;
+    font-size: 9px;}
+
+.largett {
+        font-family: Courier;
+        font-size: 15pt}
+
+.newsheadline {
+        font-weight: bold}
+
+.newssubhead {
+        color: #666600;
+        font-weight: bold;; line-height: 125%; font-size: 13px}
+
+.newsdate {
+        color: #cc6633;
+        font-size: 9.5px;}
+
+.subtitle    {color: #666666; font-size: .85em}
+
+.byline {
+        color: #cc6633;
+        font-size: .75em;}
+
+.class { font-size: 30em }
+.orangebold { color: #cc6633; ; font-weight: bold}
+.lilnav { color: #cc6633; ; font-weight: bold ; font-size: 10px}
+.lilnavcomment { color: #663300; ; font-weight: normal; font-size: 10px}
+.listitem { font-size: 11px; font-weight: bold; }
+.listitemdescription { font-size: 10px; font-weight: normal; }
+.boxed {border:1px solid black;padding:1ex;}
+.indented {margin-left: 2ex}.quotebold { font-size: 11px; color: #666666;; line-height: 150%; font-weight: 600}
